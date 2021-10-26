@@ -11,6 +11,10 @@ sites:
     url: https://cdn1.realya.ch/
   - name: CDN2
     url: https://cdn2.realya.ch/
+  - name: CDN3
+    url: https://cdn3.realya.ch/
+  - name: CDN4
+    url: https://cdn4.realya.ch/
 
 status-website:
   # Add your custom domain name, or remove the cname line if you don't have a domain
