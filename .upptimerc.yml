@@ -18,6 +18,7 @@ status-website:
   cname: status.realya.ch
   # baseUrl: /your-repo-name
   logoUrl: https://realya.ch/assets/img/Logo/favicon.png
+  favicon: https://realya.ch/assets/img/Logo/favicon.png
   name: Status Realya
   introTitle: "Upptime Titre"
   introMessage: "Un message qui sers d'information."
@@ -26,6 +27,7 @@ status-website:
       href: /
     - title: Realya
       href: https://realya.ch/
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
