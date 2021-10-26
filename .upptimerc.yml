@@ -27,7 +27,6 @@ status-website:
       href: /
     - title: Realya
       href: https://realya.ch/
-  theme: dark
-
+  theme: night
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
