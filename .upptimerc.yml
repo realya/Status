@@ -19,7 +19,7 @@ status-website:
   # Uncomment the baseUrl line if you don't have a custom domain and add your repo name there
   cname: status.realya.ch
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://realya.ch/assets/img/Logo/favicon.png
   name: Status Realya
   introTitle: "Upptime Titre"
   introMessage: "Un message qui sers d'information."
