@@ -1,7 +1,7 @@
 url: https://cdn1.realya.ch/
-status: up
-code: 200
-responseTime: 437
-lastUpdated: 2021-11-19T19:43:44.092Z
+status: down
+code: 500
+responseTime: 120
+lastUpdated: 2021-11-19T20:40:31.778Z
 startTime: Tue Oct 26 2021 13:57:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
