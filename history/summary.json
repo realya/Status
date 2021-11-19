@@ -62,19 +62,19 @@
     "url": "https://cdn2.realya.ch/",
     "icon": "https://favicons.githubusercontent.com/cdn2.realya.ch",
     "slug": "cdn-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 272,
-    "timeWeek": 397,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 454,
+    "timeDay": 324,
+    "timeWeek": 400,
+    "timeMonth": 454,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-11-19": 0
+      "2021-11-19": 13
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://cdn3.realya.ch/",
     "icon": "https://favicons.githubusercontent.com/cdn3.realya.ch",
     "slug": "cdn-3",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 454,
-    "timeDay": 348,
-    "timeWeek": 393,
+    "timeDay": 360,
+    "timeWeek": 398,
     "timeMonth": 454,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2021-11-19": 26
+      "2021-11-19": 39
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://cdn4.realya.ch/",
     "icon": "https://favicons.githubusercontent.com/cdn4.realya.ch",
     "slug": "cdn-4",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 435,
-    "timeDay": 306,
-    "timeWeek": 359,
+    "timeDay": 326,
+    "timeWeek": 366,
     "timeMonth": 435,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2021-11-19": 16
+      "2021-11-19": 29
     }
   }
 ]
