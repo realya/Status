@@ -96,19 +96,19 @@
     "url": "https://cdn4.realya.ch/",
     "icon": "https://favicons.githubusercontent.com/cdn4.realya.ch",
     "slug": "cdn-4",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 303,
-    "timeWeek": 368,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 445,
+    "timeDay": 348,
+    "timeWeek": 383,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2021-11-19": 0
+      "2021-11-19": 16
     }
   }
 ]
