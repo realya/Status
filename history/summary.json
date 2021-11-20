@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/realya.ch",
     "slug": "realya",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
-    "time": 200,
-    "timeDay": 217,
-    "timeWeek": 172,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 201,
+    "timeDay": 218,
+    "timeWeek": 185,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
       "2021-11-06": 360
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 438,
-    "timeWeek": 371,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "time": 457,
+    "timeDay": 529,
+    "timeWeek": 381,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 416,
-    "timeDay": 265,
-    "timeWeek": 302,
+    "timeDay": 278,
+    "timeWeek": 301,
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {
@@ -63,19 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/cdn2.realya.ch",
     "slug": "cdn-2",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 324,
-    "timeWeek": 400,
+    "timeDay": 318,
+    "timeWeek": 410,
     "timeMonth": 454,
     "timeYear": 454,
-    "dailyMinutesDown": {
-      "2021-11-19": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN3",
@@ -83,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/cdn3.realya.ch",
     "slug": "cdn-3",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 454,
-    "timeDay": 360,
-    "timeWeek": 398,
-    "timeMonth": 454,
-    "timeYear": 454,
+    "uptime": "99.93%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 455,
+    "timeDay": 364,
+    "timeWeek": 401,
+    "timeMonth": 455,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2021-11-19": 39
+      "2021-11-19": 26
     }
   },
   {
@@ -103,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/cdn4.realya.ch",
     "slug": "cdn-4",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 435,
-    "timeDay": 326,
-    "timeWeek": 366,
+    "timeDay": 340,
+    "timeWeek": 374,
     "timeMonth": 435,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2021-11-19": 29
+      "2021-11-19": 16
     }
   }
 ]
