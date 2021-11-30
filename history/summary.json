@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/realya.ch",
     "slug": "realya",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "99.25%",
-    "time": 188,
-    "timeDay": 136,
-    "timeWeek": 144,
-    "timeMonth": 180,
-    "timeYear": 188,
+    "uptimeYear": "99.27%",
+    "time": 190,
+    "timeDay": 264,
+    "timeWeek": 156,
+    "timeMonth": 176,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2021-11-06": 360
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 449,
-    "timeDay": 319,
-    "timeWeek": 416,
-    "timeMonth": 433,
+    "timeDay": 466,
+    "timeWeek": 421,
+    "timeMonth": 427,
     "timeYear": 449,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 416,
-    "timeDay": 302,
-    "timeWeek": 407,
-    "timeMonth": 398,
-    "timeYear": 416,
+    "time": 413,
+    "timeDay": 297,
+    "timeWeek": 389,
+    "timeMonth": 386,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2021-11-19": 26
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 460,
-    "timeDay": 565,
-    "timeWeek": 498,
-    "timeMonth": 442,
-    "timeYear": 460,
+    "time": 458,
+    "timeDay": 378,
+    "timeWeek": 472,
+    "timeMonth": 433,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 448,
-    "timeDay": 415,
-    "timeWeek": 428,
-    "timeMonth": 439,
-    "timeYear": 448,
+    "time": 446,
+    "timeDay": 368,
+    "timeWeek": 421,
+    "timeMonth": 433,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2021-11-19": 26
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 429,
-    "timeDay": 318,
-    "timeWeek": 406,
-    "timeMonth": 401,
-    "timeYear": 429,
+    "time": 430,
+    "timeDay": 458,
+    "timeWeek": 398,
+    "timeMonth": 403,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2021-11-19": 16
     }
