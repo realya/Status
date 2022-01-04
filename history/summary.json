@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/realya.ch",
     "slug": "realya",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
-    "time": 180,
-    "timeDay": 157,
-    "timeWeek": 217,
+    "uptimeYear": "99.64%",
+    "time": 179,
+    "timeDay": 101,
+    "timeWeek": 204,
     "timeMonth": 172,
-    "timeYear": 180,
+    "timeYear": 179,
     "dailyMinutesDown": {
       "2021-11-06": 360
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 361,
-    "timeWeek": 371,
-    "timeMonth": 427,
-    "timeYear": 438,
+    "time": 439,
+    "timeDay": 526,
+    "timeWeek": 402,
+    "timeMonth": 430,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 415,
-    "timeDay": 408,
-    "timeWeek": 382,
-    "timeMonth": 412,
-    "timeYear": 415,
+    "time": 416,
+    "timeDay": 482,
+    "timeWeek": 410,
+    "timeMonth": 418,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2021-11-19": 26
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 459,
-    "timeDay": 503,
-    "timeWeek": 465,
-    "timeMonth": 465,
+    "timeDay": 409,
+    "timeWeek": 468,
+    "timeMonth": 468,
     "timeYear": 459,
     "dailyMinutesDown": {}
   },
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 445,
-    "timeDay": 399,
-    "timeWeek": 405,
-    "timeMonth": 446,
+    "timeDay": 404,
+    "timeWeek": 416,
+    "timeMonth": 448,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2021-11-19": 26
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 428,
-    "timeDay": 536,
-    "timeWeek": 419,
-    "timeMonth": 426,
-    "timeYear": 428,
+    "time": 429,
+    "timeDay": 521,
+    "timeWeek": 449,
+    "timeMonth": 431,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2021-11-19": 16
     }
