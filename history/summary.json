@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 168,
-    "timeDay": 127,
-    "timeWeek": 159,
-    "timeMonth": 152,
+    "timeDay": 108,
+    "timeWeek": 155,
+    "timeMonth": 149,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2021-11-06": 360
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 322,
-    "timeWeek": 429,
-    "timeMonth": 427,
-    "timeYear": 438,
+    "time": 437,
+    "timeDay": 405,
+    "timeWeek": 434,
+    "timeMonth": 424,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 415,
-    "timeDay": 391,
-    "timeWeek": 419,
-    "timeMonth": 417,
-    "timeYear": 415,
+    "time": 416,
+    "timeDay": 517,
+    "timeWeek": 440,
+    "timeMonth": 416,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2021-11-19": 26
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 330,
-    "timeWeek": 416,
-    "timeMonth": 415,
+    "timeDay": 422,
+    "timeWeek": 417,
+    "timeMonth": 414,
     "timeYear": 451,
     "dailyMinutesDown": {}
   },
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 443,
-    "timeDay": 408,
-    "timeWeek": 442,
+    "time": 442,
+    "timeDay": 360,
+    "timeWeek": 439,
     "timeMonth": 444,
-    "timeYear": 443,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2021-11-19": 26
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 454,
-    "timeDay": 517,
-    "timeWeek": 434,
-    "timeMonth": 519,
-    "timeYear": 454,
+    "time": 453,
+    "timeDay": 381,
+    "timeWeek": 432,
+    "timeMonth": 517,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2021-11-19": 16
     }
