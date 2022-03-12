@@ -62,9 +62,9 @@
     "url": "https://cdn2.realya.ch/",
     "icon": "https://favicons.githubusercontent.com/cdn2.realya.ch",
     "slug": "cdn-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +73,9 @@
     "timeWeek": 369,
     "timeMonth": 380,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-12": 0
+    }
   },
   {
     "name": "CDN3",
