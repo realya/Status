@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.83%",
-    "time": 167,
-    "timeDay": 105,
-    "timeWeek": 151,
-    "timeMonth": 162,
-    "timeYear": 167,
+    "time": 168,
+    "timeDay": 209,
+    "timeWeek": 152,
+    "timeMonth": 161,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2022-03-14": 27,
       "2021-11-06": 360
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 408,
-    "timeDay": 253,
-    "timeWeek": 323,
-    "timeMonth": 299,
+    "timeDay": 337,
+    "timeWeek": 277,
+    "timeMonth": 300,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2022-03-14": 27
@@ -52,8 +52,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 390,
-    "timeDay": 289,
-    "timeWeek": 246,
+    "timeDay": 366,
+    "timeWeek": 270,
     "timeMonth": 285,
     "timeYear": 390,
     "dailyMinutesDown": {
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 420,
-    "timeDay": 420,
-    "timeWeek": 307,
+    "time": 419,
+    "timeDay": 262,
+    "timeWeek": 282,
     "timeMonth": 312,
-    "timeYear": 420,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2022-03-14": 27
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 414,
-    "timeDay": 354,
+    "time": 413,
+    "timeDay": 282,
     "timeWeek": 334,
-    "timeMonth": 293,
-    "timeYear": 414,
+    "timeMonth": 291,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2022-03-14": 27,
       "2021-11-19": 26
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 414,
-    "timeDay": 241,
-    "timeWeek": 243,
-    "timeMonth": 277,
-    "timeYear": 414,
+    "time": 413,
+    "timeDay": 277,
+    "timeWeek": 251,
+    "timeMonth": 276,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2022-03-14": 27,
       "2021-11-19": 16
