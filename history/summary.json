@@ -11,9 +11,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.84%",
     "time": 167,
-    "timeDay": 155,
+    "timeDay": 203,
     "timeWeek": 159,
-    "timeMonth": 158,
+    "timeMonth": 159,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2022-03-14": 27,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 405,
-    "timeDay": 244,
-    "timeWeek": 324,
-    "timeMonth": 308,
-    "timeYear": 405,
+    "time": 404,
+    "timeDay": 238,
+    "timeWeek": 310,
+    "timeMonth": 305,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2022-03-14": 27
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 388,
-    "timeDay": 240,
-    "timeWeek": 337,
-    "timeMonth": 288,
+    "timeDay": 357,
+    "timeWeek": 335,
+    "timeMonth": 291,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2022-03-14": 27,
@@ -73,9 +73,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 416,
-    "timeDay": 263,
-    "timeWeek": 321,
-    "timeMonth": 325,
+    "timeDay": 297,
+    "timeWeek": 326,
+    "timeMonth": 326,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2022-03-14": 27
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 409,
-    "timeDay": 242,
-    "timeWeek": 302,
-    "timeMonth": 298,
-    "timeYear": 409,
+    "time": 408,
+    "timeDay": 266,
+    "timeWeek": 300,
+    "timeMonth": 299,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2022-03-14": 27,
       "2021-11-19": 26
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 408,
-    "timeDay": 247,
-    "timeWeek": 263,
-    "timeMonth": 272,
-    "timeYear": 408,
+    "time": 407,
+    "timeDay": 221,
+    "timeWeek": 255,
+    "timeMonth": 266,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2022-03-14": 27,
       "2021-11-19": 16
