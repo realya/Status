@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 168,
-    "timeDay": 197,
-    "timeWeek": 180,
+    "timeDay": 167,
+    "timeWeek": 184,
     "timeMonth": 162,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 400,
-    "timeDay": 258,
-    "timeWeek": 288,
-    "timeMonth": 317,
-    "timeYear": 400,
+    "time": 399,
+    "timeDay": 319,
+    "timeWeek": 296,
+    "timeMonth": 313,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2022-03-14": 27
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 385,
-    "timeDay": 325,
+    "time": 384,
+    "timeDay": 250,
     "timeWeek": 308,
-    "timeMonth": 303,
-    "timeYear": 385,
+    "timeMonth": 302,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2022-03-14": 27,
       "2021-11-19": 26
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 411,
-    "timeDay": 250,
-    "timeWeek": 280,
-    "timeMonth": 301,
-    "timeYear": 411,
+    "time": 410,
+    "timeDay": 284,
+    "timeWeek": 282,
+    "timeMonth": 300,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2022-03-14": 27
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 407,
-    "timeDay": 355,
-    "timeWeek": 374,
-    "timeMonth": 321,
-    "timeYear": 407,
+    "time": 406,
+    "timeDay": 246,
+    "timeWeek": 375,
+    "timeMonth": 319,
+    "timeYear": 406,
     "dailyMinutesDown": {
       "2022-03-14": 27,
       "2021-11-19": 26
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 402,
-    "timeDay": 281,
-    "timeWeek": 287,
-    "timeMonth": 277,
+    "timeDay": 433,
+    "timeWeek": 311,
+    "timeMonth": 275,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2022-03-14": 27,
