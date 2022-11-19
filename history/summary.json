@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 181,
-    "timeDay": 82,
-    "timeWeek": 134,
-    "timeMonth": 200,
+    "timeDay": 119,
+    "timeWeek": 139,
+    "timeMonth": 196,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2022-06-30": 191,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 371,
-    "timeDay": 281,
-    "timeWeek": 330,
-    "timeMonth": 382,
+    "timeDay": 425,
+    "timeWeek": 347,
+    "timeMonth": 384,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2022-06-30": 191,
@@ -56,16 +56,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 357,
-    "timeDay": 490,
-    "timeWeek": 335,
-    "timeMonth": 360,
+    "timeDay": 246,
+    "timeWeek": 333,
+    "timeMonth": 354,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2022-06-30": 191,
       "2022-06-21": 20,
       "2022-06-14": 18,
-      "2022-03-14": 27,
-      "2021-11-19": 26
+      "2022-03-14": 27
     }
   },
   {
@@ -80,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 389,
-    "timeDay": 534,
-    "timeWeek": 347,
-    "timeMonth": 354,
+    "timeDay": 277,
+    "timeWeek": 340,
+    "timeMonth": 347,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2022-06-30": 191,
@@ -96,15 +95,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn3.realya.ch.ico",
     "slug": "cdn-3",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.94%",
     "time": 390,
-    "timeDay": 582,
-    "timeWeek": 320,
-    "timeMonth": 360,
+    "timeDay": 348,
+    "timeWeek": 363,
+    "timeMonth": 361,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2022-10-03": 712,
@@ -121,8 +120,7 @@
       "2022-09-22": 732,
       "2022-06-30": 191,
       "2022-06-14": 18,
-      "2022-03-14": 27,
-      "2021-11-19": 26
+      "2022-03-14": 27
     }
   },
   {
@@ -137,16 +135,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 369,
-    "timeDay": 320,
-    "timeWeek": 315,
-    "timeMonth": 347,
+    "timeDay": 297,
+    "timeWeek": 317,
+    "timeMonth": 345,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2022-06-30": 191,
       "2022-06-21": 19,
       "2022-06-14": 18,
-      "2022-03-14": 27,
-      "2021-11-19": 16
+      "2022-03-14": 27
     }
   }
 ]
